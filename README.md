@@ -11,6 +11,8 @@ Google Cloudを通してGoogleアカウントの認証機能が備わってい�
 この二つはGoogleアカウントと紐づいているため、設定したグーグルアカウントからでないとアクセスすることができません。
 ![image](https://github.com/freiheit2348/Login_to_SwichAPI0604/assets/116003620/f77ac95a-0748-4cce-9923-2307538444f6)
 
+登録された情報は同フォルダにあるregistered.jsonに記憶されるようになっております。
+
 ログインが完了すると以下のページから変更可能なAPIの実行ページが表示されます。
 open AI, Anthropic, Geminiが利用できます。
 ![image](https://github.com/freiheit2348/Login_to_SwichAPI0604/assets/116003620/65cb1834-9647-4034-9630-c93fae9f4156)
