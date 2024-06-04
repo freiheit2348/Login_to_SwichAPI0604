@@ -1,4 +1,5 @@
-Read me
+ログイン機能とスイッチAPI
+
 Google Cloudを通してGoogleアカウントの認証機能が備わっています。
 ![image](https://github.com/freiheit2348/Login_to_SwichAPI0604/assets/116003620/ff096177-bda3-4acd-b684-c5f5ebdf57b7)
 
