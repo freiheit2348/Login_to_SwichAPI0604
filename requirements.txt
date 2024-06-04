@@ -1,0 +1,12 @@
+anthropic
+fastapi
+starlette
+authlib
+pydantic
+passlib
+gradio
+google-generativeai
+google-cloud-aiplatform
+uvicorn
+passlib
+python-multipart
